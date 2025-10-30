@@ -1,0 +1,7 @@
+<config>
+    <package_name>example-package</package_name>
+    <repository_url>https://example.com/repo</repository_url>
+    <test_repo_mode>true</test_repo_mode>
+    <output_image>dependencies.png</output_image>
+    <ascii_tree_mode>false</ascii_tree_mode>
+</config>
